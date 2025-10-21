@@ -135,7 +135,7 @@ Built following **Andrew Ng's Machine Learning Specialization** (Supervised ML c
 
 ### 📫 Connect & Discuss
 
-- **LinkedIn**: [Prakash M S](https://linkedin.com/in/your-profile)
+- **LinkedIn**: [Prakash M S](https://www.linkedin.com/in/prakash-saravanan-858113284/)
 - **GitHub**: [@Prakash-M-S](https://github.com/Prakash-M-S)
 
 *Happy to discuss machine learning fundamentals, implementation details, or career opportunities!*
