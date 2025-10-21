@@ -96,13 +96,20 @@ logistic_regression_pulsar/
 - **Feature Scaling**: Z-score normalization for gradient descent stability
 - **Regularization Parameter**: λ = 1 for balanced bias-variance tradeoff
 
+## Advanced Features Implemented
+
+- ✅ **L2 Regularization**: Ridge penalty for overfitting prevention (λ = 1)
+- ✅ **Stratified Sampling**: Maintains class balance in imbalanced dataset
+- ✅ **Numerical Stability**: Epsilon handling for log(0) prevention
+- ✅ **Comprehensive Metrics**: Precision, Recall, F1-score for classification
+- ✅ **Feature Scaling**: Z-score normalization for stability
+
 ## Next Steps
 
-- [ ] Implement different regularization types (L1, Elastic Net)
 - [ ] ROC curve and AUC analysis
-- [ ] Feature importance analysis
 - [ ] Cross-validation for hyperparameter tuning
 - [ ] Advanced optimization algorithms (Adam, RMSprop)
+- [ ] Elastic Net regularization (L1 + L2 combination)
 
 ---
 
